@@ -37,7 +37,7 @@ Tutorial on how to use Github:
 
 4. Open a Pull Request - Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button. In the Example Comparisons box, select the branch you made, readme-edits, to compare with master (the original). Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit. Click the big green Create Pull Request button. Give your pull request a title and write a brief description of your changes. When you’re done with your message, click Create pull request.
 
-Merge a Pull Request - Click the green Merge pull request button to merge the changes into master. Click Confirm merge. Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
+5. Merge a Pull Request - Click the green Merge pull request button to merge the changes into master. Click Confirm merge. Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
 
 
 
